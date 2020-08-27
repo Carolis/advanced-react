@@ -20,6 +20,7 @@
   "rules": {
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
-    "react/prop-types": "off"
+    "react/prop-types": "off", //to avoid TS conflicts
+    "react/react-in-jsx-scope": "off" //to be able to avoid react imports on all files (react is setted as global in this project)
   }
 }

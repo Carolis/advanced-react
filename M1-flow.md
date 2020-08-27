@@ -26,3 +26,4 @@ add ESlint
     add react-hooks plugin
     yarn add eslint-plugin-react-hooks --dev
     add to rules at eslint file
+    add extra rules (specified at eslint file)
