@@ -28,3 +28,6 @@ add ESlint
     add to rules at eslint file
     add extra rules (specified at eslint file)
     finally add the eslint plugin
+    eslint commands for the cli -> 
+        eslint folder
+        eslint foldername --fix
