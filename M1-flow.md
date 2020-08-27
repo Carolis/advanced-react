@@ -79,3 +79,9 @@ adding jest
     yarn add --dev jest @babel/preset-typescript @types/jest
 
     add config files and script for testing
+
+adding react testing lib
+
+    yarn add --dev @testing-library/react @testing-library/jest-dom
+
+    add the lib and the jest matchers and imports jest-dom on the jest setup file
