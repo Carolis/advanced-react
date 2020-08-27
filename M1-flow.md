@@ -85,3 +85,5 @@ adding react testing lib
     yarn add --dev @testing-library/react @testing-library/jest-dom
 
     add the lib and the jest matchers and imports jest-dom on the jest setup file
+
+    add basic placeholder tests just to run 
