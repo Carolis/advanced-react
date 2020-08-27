@@ -23,3 +23,6 @@ add ESlint
         json
         npm? nope - well use yarn (add manually)
         yarn add --dev {needed plugins}
+    add react-hooks plugin
+    yarn add eslint-plugin-react-hooks --dev
+    add to rules at eslint file
