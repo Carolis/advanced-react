@@ -31,3 +31,4 @@ add ESlint
     eslint commands for the cli -> 
         eslint folder
         eslint foldername --fix
+        add script at package json for the linter (yarn lint)
