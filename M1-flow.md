@@ -13,4 +13,13 @@ touch tsconfig.json
 
 add .editorconfig
 
-add ESlint
+add ESlint  
+    npx eslint --init
+        syntax and problems only (we use prettier for code styling)
+        import/export
+        react
+        TS
+        browser
+        json
+        npm? nope - well use yarn (add manually)
+        yarn add --dev {needed plugins}
