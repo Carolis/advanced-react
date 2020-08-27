@@ -87,3 +87,5 @@ adding react testing lib
     add the lib and the jest matchers and imports jest-dom on the jest setup file
 
     add basic placeholder tests just to run 
+
+    add snapshot and watch script for the tests on the linter
