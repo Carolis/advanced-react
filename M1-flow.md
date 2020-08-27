@@ -59,4 +59,5 @@ add ESlint
         add script at package json for the linter (yarn lint)
 
 adding prettier with eslint
+
      yarn add --dev eslint-config-prettier eslint-plugin-prettier
