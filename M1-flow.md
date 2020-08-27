@@ -75,3 +75,17 @@ adding husky
      add configs on package.json for husky and stage lint
 
 adding jest
+
+    yarn add --dev jest @babel/preset-typescript @types/jest
+
+    add config files and script for testing
+
+adding react testing lib
+
+    yarn add --dev @testing-library/react @testing-library/jest-dom
+
+    add the lib and the jest matchers and imports jest-dom on the jest setup file
+
+    add basic placeholder tests just to run 
+
+    add snapshot and watch script for the tests on the linter

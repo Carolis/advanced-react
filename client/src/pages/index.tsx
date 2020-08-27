@@ -1,10 +1,10 @@
-import Head from "next/head";
+import Head from 'next/head'
 
 interface Props {
-  title: string;
+  title: string
 }
 
-export default function Home({ title = "Titulozera" }: Props) {
+export default function Home({ title = 'Titulozera' }: Props) {
   return (
     <div className="container">
       <Head>
@@ -57,10 +57,9 @@ export default function Home({ title = "Titulozera" }: Props) {
           target="_blank"
           rel="noopener noreferrer"
         >
-
           <img src="/vercel.svg" alt="Vercel Logo" className="logo" />
         </a>
       </footer>
     </div>
-  );
-  }
+  )
+}
