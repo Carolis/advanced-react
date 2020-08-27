@@ -67,3 +67,11 @@ adding prettier with eslint
         add prettier to eslint configs
 
         makes prettier run inside linter at vscode config
+
+adding husky 
+
+     yarn add --dev lint-staged husky
+     
+     add configs on package.json for husky and stage lint
+
+adding jest
