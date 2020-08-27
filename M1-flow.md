@@ -61,3 +61,9 @@ add ESlint
 adding prettier with eslint
 
      yarn add --dev eslint-config-prettier eslint-plugin-prettier
+        
+        add prettier config file
+
+        add prettier to eslint configs
+
+        makes prettier run inside linter at vscode config
