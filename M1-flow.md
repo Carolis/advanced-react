@@ -75,3 +75,7 @@ adding husky
      add configs on package.json for husky and stage lint
 
 adding jest
+
+    yarn add --dev jest @babel/preset-typescript @types/jest
+
+    add config files and script for testing
