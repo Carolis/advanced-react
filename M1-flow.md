@@ -73,3 +73,5 @@ adding husky
      yarn add --dev lint-staged husky
      
      add configs on package.json for husky and stage lint
+
+adding jest
