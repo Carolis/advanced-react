@@ -115,3 +115,7 @@ styles
             add first styles.ts file at main component, files and imports
 
             add new test for the styles added
+
+            add jest styled components improv for a more informative snapshot
+
+                yarn add --dev jest-styled-components
