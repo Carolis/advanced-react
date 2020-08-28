@@ -103,3 +103,7 @@ styles
             overwriting the _document file to add styledcomponents setup for next
     
             creating a global style with createGlobalStyle
+
+            overwriting the _app next file to import global styles
+
+            add absolute imports (base url at tsconfig)
