@@ -101,3 +101,5 @@ styles
             add styled-components per se with yarn add styled-components
 
             overwriting the _document file to add styledcomponents setup for next
+    
+            creating a global style with createGlobalStyle
