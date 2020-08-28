@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`<Main /> should render something like the heading 1`] = `
+exports[`<Main /> should render the heading 1`] = `
 <main
   class="styles__Wrapper-chobwk-0 bQmcLP"
 >

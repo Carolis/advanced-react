@@ -113,3 +113,5 @@ styles
     creating styles into the first component
 
             add first styles.ts file at main component, files and imports
+
+            add new test for the styles added
