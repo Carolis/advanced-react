@@ -109,3 +109,5 @@ styles
             add absolute imports (base url at tsconfig)
 
             clean the index.tsx file
+
+    creating styles into the first component
