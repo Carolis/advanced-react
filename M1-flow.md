@@ -20,7 +20,7 @@ touch tsconfig.json
 
 add .editorconfig
 
-add ESlint  
+add ESlint
 
     npx eslint --init
 
@@ -50,7 +50,7 @@ add ESlint
 
     finally add the eslint plugin
 
-    eslint commands for the cli -> 
+    eslint commands for the cli ->
 
         eslint folder
 
@@ -61,17 +61,17 @@ add ESlint
 adding prettier with eslint
 
      yarn add --dev eslint-config-prettier eslint-plugin-prettier
-        
+
         add prettier config file
 
         add prettier to eslint configs
 
         makes prettier run inside linter at vscode config
 
-adding husky 
+adding husky
 
      yarn add --dev lint-staged husky
-     
+
      add configs on package.json for husky and stage lint
 
 adding jest
@@ -86,6 +86,32 @@ adding react testing lib
 
     add the lib and the jest matchers and imports jest-dom on the jest setup file
 
-    add basic placeholder tests just to run 
+    add basic placeholder tests just to run
 
     add snapshot and watch script for the tests on the linter
+
+styles
+
+    styled-components
+
+            add styles components types yarn add --dev @types/styled-components babel-plugin-styled-components
+
+            add babel setup
+
+            add styled-components per se with yarn add styled-components
+
+            overwriting the _document file to add styledcomponents setup for next
+
+            creating a global style with createGlobalStyle
+
+            overwriting the _app next file to import global styles
+
+            add absolute imports (base url at tsconfig)
+
+            clean the index.tsx file
+
+    creating styles into the first component
+
+            add first styles.ts file at main component, files and imports
+
+            add new test for the styles added
