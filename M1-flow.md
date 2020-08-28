@@ -89,3 +89,9 @@ adding react testing lib
     add basic placeholder tests just to run 
 
     add snapshot and watch script for the tests on the linter
+
+styles
+
+    styled-components
+
+            add styles components types yarn add --dev @types/styled-components babel-plugin-styled-components
