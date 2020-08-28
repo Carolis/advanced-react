@@ -97,3 +97,5 @@ styles
             add styles components types yarn add --dev @types/styled-components babel-plugin-styled-components
 
             add babel setup
+
+            add styled-components per se with yarn add styled-components
