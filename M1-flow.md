@@ -107,3 +107,5 @@ styles
             overwriting the _app next file to import global styles
 
             add absolute imports (base url at tsconfig)
+
+            clean the index.tsx file
