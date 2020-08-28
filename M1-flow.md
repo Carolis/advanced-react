@@ -99,3 +99,5 @@ styles
             add babel setup
 
             add styled-components per se with yarn add styled-components
+
+            overwriting the _document file to add styledcomponents setup for next
