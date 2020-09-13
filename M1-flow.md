@@ -135,3 +135,5 @@ styles
          !!the new storybook needs to separate main and config files
 
          yarn add @storybook/addon-knobs --dev
+
+         migrates storybook to the new version
