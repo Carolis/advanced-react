@@ -119,3 +119,11 @@ styles
             add jest styled components improv for a more informative snapshot
 
                 yarn add --dev jest-styled-components
+
+    adding storybook
+
+         npx -p @storybook/cli sb init --type react  or just sb init
+
+         yarn add --dev @storybook/preset-typescript
+
+         removes the "stories" folder from src, configures new path into .storybook main.js and configures -s ./public into package json
