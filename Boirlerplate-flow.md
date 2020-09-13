@@ -161,3 +161,5 @@ EXTRA
     Add plop for automated file creation
 
         yarn add -D plop
+
+        run yarn generate and name it
