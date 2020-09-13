@@ -153,3 +153,11 @@ Setting up PWA
         yarn start
 
 Finishes the Boilerplate and isolates the folder
+
+EXTRA
+
+    Add dependabot and github actions for cicd
+
+    Add plop for automated file creation
+
+        yarn add -D plop
