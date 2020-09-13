@@ -163,3 +163,5 @@ EXTRA
         yarn add -D plop
 
         run yarn generate and name it
+
+    jest-styled-components typing fix
