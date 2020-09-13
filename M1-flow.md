@@ -151,3 +151,5 @@ Setting up PWA
         NODE_ENV=production yarn build
 
         yarn start
+
+Finishes the Boilerplate and isolates the folder
