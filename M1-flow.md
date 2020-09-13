@@ -115,3 +115,27 @@ styles
             add first styles.ts file at main component, files and imports
 
             add new test for the styles added
+
+            add jest styled components improv for a more informative snapshot
+
+                yarn add --dev jest-styled-components
+
+    adding storybook
+
+         npx -p @storybook/cli sb init --type react  or just sb init
+
+         yarn add --dev @storybook/preset-typescript
+
+         removes the "stories" folder from src, configures new path into .storybook main.js and configures -s ./public into package json
+
+         make the firt story and run yarn storybook
+
+         create the first Decorator (withGlobalStyles)
+
+         !!the new storybook needs to separate main and config files
+
+         yarn add @storybook/addon-knobs --dev
+
+         migrates storybook to the new version
+
+         migrates knobs to controls addon
