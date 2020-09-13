@@ -129,3 +129,9 @@ styles
          removes the "stories" folder from src, configures new path into .storybook main.js and configures -s ./public into package json
 
          make the firt story and run yarn storybook
+
+         create the first Decorator (withGlobalStyles)
+
+         !!the new storybook needs to separate main and config files
+
+         yarn add @storybook/addon-knobs --dev
