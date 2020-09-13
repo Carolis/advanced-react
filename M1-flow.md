@@ -137,3 +137,5 @@ styles
          yarn add @storybook/addon-knobs --dev
 
          migrates storybook to the new version
+
+         migrates knobs to controls addon
