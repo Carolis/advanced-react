@@ -90,7 +90,7 @@ adding react testing lib
 
     add snapshot and watch script for the tests on the linter
 
-styles
+Styles
 
     styled-components
 
@@ -139,3 +139,15 @@ styles
          migrates storybook to the new version
 
          migrates knobs to controls addon
+
+Setting up PWA
+
+        add next.config.js file
+
+        yarn add next-wpa
+
+        add manifest.json PWA
+
+        NODE_ENV=production yarn build
+
+        yarn start
