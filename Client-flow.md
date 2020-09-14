@@ -77,3 +77,26 @@ PostgreSQL Installation
                     grant all privileges on database <database> to <username>;        then it must return GRANT
 
                 \q  to quit interface
+
+Strapi installation 
+
+    yarn create strapi-app reactavancado-api > custom > choose db 
+
+        Available commands: 
+
+        yarn develop
+        Start Strapi in watch mode.
+
+        yarn start
+        Start Strapi without watch mode.
+
+        yarn build
+        Build Strapi admin panel.
+
+        yarn strapi
+        Display all available commands.
+
+        You can start by doing:
+
+        cd to api path
+        yarn develop
