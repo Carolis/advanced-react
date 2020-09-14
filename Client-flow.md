@@ -78,7 +78,7 @@ PostgreSQL Installation
 
                 \q  to quit interface
 
-Strapi installation 
+Strapi installation with postgres
 
     yarn create strapi-app reactavancado-api > custom > choose db 
 
@@ -100,3 +100,5 @@ Strapi installation
 
         cd to api path
         yarn develop
+
+Strapi installation with Docker
